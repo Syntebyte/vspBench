@@ -1,0 +1,12 @@
+# Windows System Files
+Thumbs.db
+desktop.ini
+
+# Project Files
+build
+build/*
+dist
+dist/*
+__pycache__
+__pycache__/*
+vspBench.spec
